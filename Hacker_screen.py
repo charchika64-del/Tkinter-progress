@@ -1,5 +1,5 @@
-# please dont take the name seriously and do not that i am hacker.
-# I am just making a gui with 0s abd and 1s on a dark screen 
+# please dont take the name seriously and do not think that i am hacker.
+# I am just making a gui with 0s and and 1s on a dark screen 
 from tkinter import *
 
 window = Tk()
